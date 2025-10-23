@@ -1,9 +1,13 @@
 import React from "react";
-import { Link, useLoaderData } from "react-router";
+import { Link } from "react-router";
 import AppCard from "../Components/AppCard";
+import useApps from "../Hooks/useApps";
 
 const Home = () => {
-  const apps = useLoaderData();
+  
+ const { apps, loading, error } = useApps()
+  
+  
 
   const trendingApps = apps.slice(0,8)
   
@@ -16,7 +20,7 @@ const Home = () => {
         Explore All Trending Apps on the Market developed by us
       </p>
 
-      <div className="max-w-7xl mx-auto px-4 md:px-7 lg:px-7 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-10">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-6 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-10">
         {trendingApps.map((app) => (
           <AppCard key={app.id} app={app} />
         ))}
