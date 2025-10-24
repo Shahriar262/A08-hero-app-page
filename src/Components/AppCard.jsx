@@ -1,13 +1,15 @@
 import React from "react";
 import downloadImg from "../assets/icon-downloads.png";
 import ratingImg from "../assets/icon-ratings.png";
+import { Link } from "react-router";
 
 const AppCard = ({ app }) => {
-  const { image, title, downloads, ratingAvg } = app;
+  const { image, title, downloads, ratingAvg, id } = app;
   
 
   return (
-    <div className="bg-[#FFFFFF] h-[380px]  w-full p-[10px] rounded-[4px] shadow-sm hover:scale-105 transition ease-in-out">
+    <div>
+      <Link to={`/apps/${id}`}  className="card bg-[#FFFFFF] h-[380px]  w-full p-[10px] rounded-[4px] shadow-sm hover:scale-105 transition ease-in-out">
       <img src={image} className="w-full h-[270px] rounded-[8px]" alt="" />
       <h1 className="font-medium text-[#001931] my-4">{title}</h1>
       <div className="flex justify-between items-center">
@@ -23,6 +25,7 @@ const AppCard = ({ app }) => {
           <p className="text-[#FF8811] text-[13px]">{ratingAvg}</p>
         </div>
       </div>
+    </Link>
     </div>
   );
 };

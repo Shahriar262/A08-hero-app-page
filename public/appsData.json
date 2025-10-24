@@ -4,17 +4,17 @@
     "title": "ChatMaster",
     "companyName": "BrightApps Inc.",
     "id": 1,
-    "description": "ChatMaster is a next-generation messaging app that connects you instantly across devices. It offers group chats, voice & video calls, and rich media sharing. End-to-end encryption keeps your conversations safe and private. Smart-reply and AI suggestions help you stay responsive on the go.",
+    "description": "ChatMaster is a next-generation messaging app that connects you instantly across devices. It offers group chats, voice & video calls, and rich media sharing. End-to-end encryption keeps your conversations safe and private. Smart-reply and AI suggestions help you stay responsive on the go. Customize notifications to prioritize important messages. Create and manage chat groups easily with advanced admin controls. Share files, photos, and videos seamlessly with anyone. Use voice notes and reactions to enhance communication. Built-in AI summaries help you catch up quickly. Supports multi-device sync with real-time updates. Optimized for low-data usage without compromising quality. Experience a smooth interface with light and dark modes.",
     "size": 45.3,
-    "reviews": 12845,
+    "reviews": 12,
     "ratingAvg": 4.6,
     "downloads": 5,
     "ratings": [
-      { "name": "1 star", "count": 345 },
-      { "name": "2 star", "count": 210 },
-      { "name": "3 star", "count": 740 },
-      { "name": "4 star", "count": 4320 },
-      { "name": "5 star", "count": 74430 }
+      { "name": "1 star", "count": 215000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 740000 },
+      { "name": "4 star", "count": 4320000 },
+      { "name": "5 star", "count": 7443000 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "title": "FitTrack Pro",
     "companyName": "HealthTech Solutions",
     "id": 2,
-    "description": "FitTrack Pro turns your smartphone into a personal fitness coach, tracking workouts, steps, sleep and nutrition. With goals, reminders and insights you’ll get healthier and stronger. Syncs with wearables and integrates with other apps for full-body wellness monitoring. Custom workout plans adapt as you improve.",
+    "description": "FitTrack Pro turns your smartphone into a personal fitness coach, tracking workouts, steps, sleep and nutrition. With goals, reminders and insights you’ll get healthier and stronger. Syncs with wearables and integrates with other apps for full-body wellness monitoring. Custom workout plans adapt as you improve. Analyze trends over time to optimize your performance. Set challenges with friends to stay motivated. Receive personalized daily insights based on your data. Track calories and hydration with smart reminders. Use voice guidance during workouts for hands-free support. Adjust difficulty levels automatically as you progress. Connect with fitness communities for inspiration. Maintain a holistic health log all in one app.",
     "size": 62.8,
-    "reviews": 9820,
+    "reviews": 98,
     "ratingAvg": 4.4,
     "downloads": 3.2,
     "ratings": [
-      { "name": "1 star", "count": 512 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 860 },
-      { "name": "4 star", "count": 3880 },
-      { "name": "5 star", "count": 5328 }
+      { "name": "1 star", "count": 51200 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 86000 },
+      { "name": "4 star", "count": 388000 },
+      { "name": "5 star", "count": 532800 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "title": "PhotoArt Studio",
     "companyName": "Creative Labs LLC",
     "id": 3,
-    "description": "PhotoArt Studio is a powerful photo editor offering filters, layers, brushes and AI-enhancements. Create stunning visuals and share directly to your social feeds. Built-in tutorials help beginners master pro techniques quickly. Export in high resolution and print ready format.",
+    "description": "PhotoArt Studio is a powerful photo editor offering filters, layers, brushes and AI-enhancements. Create stunning visuals and share directly to your social feeds. Built-in tutorials help beginners master pro techniques quickly. Export in high resolution and print ready format. Organize photos into albums and manage projects easily. Use creative templates for collages and social posts. Remove backgrounds or objects effortlessly. Apply advanced color correction and effects. Collaborate with friends on creative projects. Access cloud storage for safe backup. Supports stylus and touch controls. Enjoy a clean, intuitive interface for all skill levels.",
     "size": 75.1,
-    "reviews": 15600,
+    "reviews": 156,
     "ratingAvg": 4.7,
     "downloads": 4,
     "ratings": [
-      { "name": "1 star", "count": 210 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 590 },
-      { "name": "4 star", "count": 4320 },
-      { "name": "5 star", "count": 10580 }
+      { "name": "1 star", "count": 11000 },
+      { "name": "2 star", "count": 21000 },
+      { "name": "3 star", "count": 59000 },
+      { "name": "4 star", "count": 432000 },
+      { "name": "5 star", "count": 1058000 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "title": "HeadSpace – Meditation",
     "companyName": "Zenware Inc.",
     "id": 4,
-    "description": "HeadSpace helps you cultivate calm and clarity with guided meditations, breathing exercises and sleep stories. Track your mood over time and receive gentle reminders to pause and reset. Beautiful ambient soundscapes support your practice. Suitable for beginners and seasoned meditators alike.",
+    "description": "HeadSpace helps you cultivate calm and clarity with guided meditations, breathing exercises and sleep stories. Track your mood over time and receive gentle reminders to pause and reset. Beautiful ambient soundscapes support your practice. Suitable for beginners and seasoned meditators alike. Explore themed courses for stress, focus, and sleep. Use daily streaks to maintain mindfulness habits. Short sessions fit into busy schedules. Personalized recommendations adapt to your needs. Monitor progress with insightful analytics. Connect with friends for shared meditation sessions. Customize session length and background sounds. Access offline meditations anywhere, anytime.",
     "size": 38.4,
-    "reviews": 8470,
+    "reviews": 84,
     "ratingAvg": 4.5,
     "downloads": 2.1,
     "ratings": [
-      { "name": "1 star", "count": 410 },
-      { "name": "2 star", "count": 260 },
-      { "name": "3 star", "count": 730 },
-      { "name": "4 star", "count": 2850 },
-      { "name": "5 star", "count": 3470 }
+      { "name": "1 star", "count": 26000 },
+      { "name": "2 star", "count": 42000 },
+      { "name": "3 star", "count": 73000 },
+      { "name": "4 star", "count": 285000 },
+      { "name": "5 star", "count": 347000 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "title": "TravelMate – Trip Planner",
     "companyName": "Globex Travel Tech",
     "id": 5,
-    "description": "TravelMate makes planning your next adventure effortless: search flights, hotels, attractions and map your itinerary. Share your trip with friends and get real-time updates on bookings and alerts. Offline maps keep you going even without internet. Discover hidden gems recommended by locals.",
+    "description": "TravelMate makes planning your next adventure effortless: search flights, hotels, attractions and map your itinerary. Share your trip with friends and get real-time updates on bookings and alerts. Offline maps keep you going even without internet. Discover hidden gems recommended by locals. Save favorite destinations and create custom itineraries. Receive notifications for delays or changes. Book guided tours and activities directly in-app. Track expenses and manage travel budgets. Add photos and notes to your trip journal. Access tips and reviews from fellow travelers. Navigate unfamiliar cities confidently with voice directions. Sync travel plans across all your devices seamlessly.",
     "size": 55.9,
-    "reviews": 11200,
+    "reviews": 112,
     "ratingAvg": 4.3,
     "downloads": 2.7,
     "ratings": [
-      { "name": "1 star", "count": 620 },
-      { "name": "2 star", "count": 340 },
-      { "name": "3 star", "count": 1040 },
-      { "name": "4 star", "count": 5120 },
-      { "name": "5 star", "count": 5180 }
+      { "name": "1 star", "count": 34000 },
+      { "name": "2 star", "count": 62000 },
+      { "name": "3 star", "count": 104000 },
+      { "name": "4 star", "count": 512000 },
+      { "name": "5 star", "count": 718000 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "title": "BudgetBuddy – Expense Tracker",
     "companyName": "SmartFinance Apps",
     "id": 6,
-    "description": "BudgetBuddy helps you take control of your finances by tracking spending, setting budgets and visualizing trends. Secure with passcode and biometric access. Syncs across devices and supports multiple currencies. Get alerts for upcoming bills and overspending to stay ahead.",
+    "description": "BudgetBuddy helps you take control of your finances by tracking spending, setting budgets and visualizing trends. Secure with passcode and biometric access. Syncs across devices and supports multiple currencies. Get alerts for upcoming bills and overspending to stay ahead. Categorize transactions for better insight. Set savings goals and monitor progress. Generate detailed reports for analysis. Track subscriptions and recurring payments. Use visual charts to understand trends. Receive tips to optimize spending habits. Share financial snapshots with advisors securely. Maintain complete control over personal finances effortlessly.",
     "size": 29.7,
-    "reviews": 9340,
+    "reviews": 93,
     "ratingAvg": 4.2,
     "downloads": 1.8,
     "ratings": [
-      { "name": "1 star", "count": 580 },
-      { "name": "2 star", "count": 390 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 3090 },
-      { "name": "5 star", "count": 3280 }
+      { "name": "1 star", "count": 38000 },
+      { "name": "2 star", "count": 59000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 309000 },
+      { "name": "5 star", "count": 388000 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "title": "KidsFun – Learning Games",
     "companyName": "BrightMinds EdTech",
     "id": 7,
-    "description": "KidsFun offers a safe and fun environment for young children to learn letters, numbers, shapes and colours through interactive games. Parent mode allows session tracking and screen-time control. Designed by educators for preschoolers aged 2-6. No ads in the kid’s zone for uninterrupted play.",
+    "description": "KidsFun offers a safe and fun environment for young children to learn letters, numbers, shapes and colours through interactive games. Parent mode allows session tracking and screen-time control. Designed by educators for preschoolers aged 2-6. No ads in the kid’s zone for uninterrupted play. Includes puzzles, memory games and creative activities. Supports multiple difficulty levels to match skills. Encourages problem-solving and critical thinking. Rewards achievements with stars and badges. Access offline content without internet. Introduces basic science and art concepts. Provides fun songs and rhymes for learning. Engages kids while promoting early childhood development.",
     "size": 48.5,
-    "reviews": 7200,
+    "reviews": 72,
     "ratingAvg": 4.6,
     "downloads": 1,
     "ratings": [
-      { "name": "1 star", "count": 260 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 620 },
-      { "name": "4 star", "count": 2190 },
-      { "name": "5 star", "count": 3850 }
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 28000 },
+      { "name": "3 star", "count": 62000 },
+      { "name": "4 star", "count": 219000 },
+      { "name": "5 star", "count": 385000 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "title": "RecipeMaster – Cook & Share",
     "companyName": "KitchenTech Ltd.",
     "id": 8,
-    "description": "RecipeMaster brings thousands of step-by-step cooking tutorials and recipes to your phone. Share your creations with the community and save favourite offline. Ingredient shopping list and meal planner built-in. Suitable for beginners and experienced cooks alike.",
+    "description": "RecipeMaster brings thousands of step-by-step cooking tutorials and recipes to your phone. Share your creations with the community and save favourite offline. Ingredient shopping list and meal planner built-in. Suitable for beginners and experienced cooks alike. Customize recipes with personal notes. Explore recipes by cuisine, diet, and occasion. Follow chefs and get daily cooking inspiration. Set reminders for meal prep and cooking schedules. Save recipe videos for offline viewing. Adjust serving sizes and ingredient quantities. Learn new techniques with tutorials and tips. Organize favorite recipes into collections easily.",
     "size": 66.2,
-    "reviews": 10450,
+    "reviews": 104,
     "ratingAvg": 4.4,
     "downloads": 1.4,
     "ratings": [
-      { "name": "1 star", "count": 480 },
-      { "name": "2 star", "count": 290 },
-      { "name": "3 star", "count": 950 },
-      { "name": "4 star", "count": 3720 },
-      { "name": "5 star", "count": 4010 }
+      { "name": "1 star", "count": 68000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 372000 },
+      { "name": "5 star", "count": 401000 }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "title": "NewsWire – Daily Headlines",
     "companyName": "InfoStream Media",
     "id": 9,
-    "description": "NewsWire delivers breaking news, in-depth features and local stories tailored to your interests. Real-time alerts keep you updated when it matters. Save articles offline for commute reading. Customize topics, authors and region to focus your feed.",
+    "description": "NewsWire delivers breaking news, in-depth features and local stories tailored to your interests. Real-time alerts keep you updated when it matters. Save articles offline for commute reading. Customize topics, authors and region to focus your feed. Watch video coverage of major events. Access expert analysis and opinion pieces. Receive daily newsletters curated for you. Follow live events with minute-by-minute updates. Share stories across social media. Bookmark and categorize favorite articles. Use dark mode for comfortable reading. Explore historical archives and past headlines.",
     "size": 31.4,
-    "reviews": 7180,
+    "reviews": 54,
     "ratingAvg": 4.1,
     "downloads": 1.6,
     "ratings": [
-      { "name": "1 star", "count": 640 },
-      { "name": "2 star", "count": 410 },
-      { "name": "3 star", "count": 840 },
-      { "name": "4 star", "count": 2780 },
-      { "name": "5 star", "count": 2510 }
+      { "name": "1 star", "count": 34000 },
+      { "name": "2 star", "count": 51000 },
+      { "name": "3 star", "count": 84000 },
+      { "name": "4 star", "count": 278000 },
+      { "name": "5 star", "count": 451000 }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "title": "SafeDrive – Drive & Monitor",
     "companyName": "AutoSense Technologies",
     "id": 10,
-    "description": "SafeDrive tracks your driving habits and alerts you of risky behavior like hard braking, phone use and speeding. Earn safe-driver scores and discounts with partner insurers. Automatic emergency crash detection available. Share ride stats with family for peace of mind.",
+    "description": "SafeDrive tracks your driving habits and alerts you of risky behavior like hard braking, phone use and speeding. Earn safe-driver scores and discounts with partner insurers. Automatic emergency crash detection available. Share ride stats with family for peace of mind. Monitor fuel consumption and efficiency. Plan safer routes with traffic updates. Receive tips to improve driving skills. Track trips and mileage automatically. Access reports for insurance or personal review. Set reminders for maintenance schedules. Customize alerts for specific behaviors. Keep a driving log with visual analytics.",
     "size": 52.7,
-    "reviews": 4330,
+    "reviews": 43,
     "ratingAvg": 4.0,
     "downloads": 0.9,
     "ratings": [
-      { "name": "1 star", "count": 710 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 620 },
-      { "name": "4 star", "count": 2210 },
-      { "name": "5 star", "count": 290 }
+      { "name": "1 star", "count": 21000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 62000 },
+      { "name": "4 star", "count": 221000 },
+      { "name": "5 star", "count": 590000 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "title": "LanguageLearner – Speak Fluently",
     "companyName": "GlobeLang Corp.",
     "id": 11,
-    "description": "LanguageLearner helps you pick up a new language through daily lessons, AI-driven pronunciation feedback and immersive stories. Practice with native speakers via chat & voice. Track your progress and earn badges for motivation. Great for travel, work or personal enrichment.",
+    "description": "LanguageLearner helps you pick up a new language through daily lessons, AI-driven pronunciation feedback and immersive stories. Practice with native speakers via chat & voice. Track your progress and earn badges for motivation. Great for travel, work or personal enrichment. Explore cultural notes and idioms. Customize lesson speed and difficulty. Listen to dialogues and repeat exercises. Test comprehension with quizzes. Record and compare pronunciation. Access offline lessons anytime. Join community challenges for extra practice. Maintain streaks to reinforce learning consistently.",
     "size": 39.8,
-    "reviews": 7580,
+    "reviews": 15,
     "ratingAvg": 4.5,
     "downloads": 0.75,
     "ratings": [
-      { "name": "1 star", "count": 340 },
-      { "name": "2 star", "count": 210 },
-      { "name": "3 star", "count": 820 },
-      { "name": "4 star", "count": 3110 },
-      { "name": "5 star", "count": 3100 }
+      { "name": "1 star", "count": 21000 },
+      { "name": "2 star", "count": 34000 },
+      { "name": "3 star", "count": 82000 },
+      { "name": "4 star", "count": 311000 },
+      { "name": "5 star", "count": 810000 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "title": "SecureVault – Password Manager",
     "companyName": "CyberSafe Inc.",
     "id": 12,
-    "description": "SecureVault stores all your passwords, credit-card details and secure notes in an encrypted vault. Generate strong passwords with one tap and auto-fill them across apps and browsers. Biometric unlock gives quick access while keeping your data safe. Cross-device sync and breach monitoring included.",
+    "description": "SecureVault stores all your passwords, credit-card details and secure notes in an encrypted vault. Generate strong passwords with one tap and auto-fill them across apps and browsers. Biometric unlock gives quick access while keeping your data safe. Cross-device sync and breach monitoring included. Organize credentials with folders and tags. Receive alerts for compromised accounts. Access dark and light themes. Use password strength analysis and recommendations. Share credentials securely with trusted contacts. Backup and restore encrypted data. Auto-lock after inactivity for safety. Enjoy a clean interface for easy navigation.",
     "size": 27.6,
-    "reviews": 5220,
+    "reviews": 522,
     "ratingAvg": 4.8,
     "downloads": 7.2,
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 420 },
-      { "name": "4 star", "count": 1470 },
-      { "name": "5 star", "count": 3130 }
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 420000 },
+      { "name": "4 star", "count": 1470000 },
+      { "name": "5 star", "count": 3130000 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "title": "GreenHome – Smart Living",
     "companyName": "EcoTech Homes",
     "id": 13,
-    "description": "GreenHome lets you monitor and control your smart home devices from one dashboard: lights, thermostats, cameras and more. Set automations and schedules for comfort and energy savings. View real-time usage and get tips to reduce your carbon footprint. Compatible across major platforms and brands.",
+    "description": "GreenHome lets you monitor and control your smart home devices from one dashboard: lights, thermostats, cameras and more. Set automations and schedules for comfort and energy savings. View real-time usage and get tips to reduce your carbon footprint. Compatible across major platforms and brands. Receive notifications for unusual activity. Monitor security cameras remotely. Adjust climate and lighting with ease. Create custom scenes for daily routines. Track energy consumption trends. Integrate voice assistants for hands-free control. Share access with family members securely. Explore community tips for smart living.",
     "size": 44.2,
-    "reviews": 6310,
+    "reviews": 657,
     "ratingAvg": 4.3,
     "downloads": 3.4,
     "ratings": [
-      { "name": "1 star", "count": 530 },
-      { "name": "2 star", "count": 280 },
-      { "name": "3 star", "count": 930 },
-      { "name": "4 star", "count": 2720 },
-      { "name": "5 star", "count": 1850 }
+      { "name": "1 star", "count": 28000 },
+      { "name": "2 star", "count": 53000 },
+      { "name": "3 star", "count": 93000 },
+      { "name": "4 star", "count": 272000 },
+      { "name": "5 star", "count": 685000 }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "title": "GameZone – Arcade & Strategy",
     "companyName": "PlayFun Studios",
     "id": 14,
-    "description": "GameZone brings a collection of arcade and strategy games in one app—play quick levels or dive into deep campaign mode. Weekly events, leaderboards and social features keep the fun going. Earn rewards, unlock characters and challenge friends online. Optimized for mobile and tablets.",
+    "description": "GameZone brings a collection of arcade and strategy games in one app—play quick levels or dive into deep campaign mode. Weekly events, leaderboards and social features keep the fun going. Earn rewards, unlock characters and challenge friends online. Optimized for mobile and tablets. Track achievements and milestones. Participate in guilds and group challenges. Customize gameplay with skins and settings. Receive push notifications for events. Access tutorials and tips for strategy. Sync progress across devices. Compete globally on leaderboards. Enjoy smooth graphics and responsive controls.",
     "size": 121.5,
-    "reviews": 22000,
+    "reviews": 22,
     "ratingAvg": 4.2,
     "downloads": 0.8,
     "ratings": [
-      { "name": "1 star", "count": 1280 },
-      { "name": "2 star", "count": 910 },
-      { "name": "3 star", "count": 3450 },
-      { "name": "4 star", "count": 10210 },
-      { "name": "5 star", "count": 5620 }
+      { "name": "1 star", "count": 12800 },
+      { "name": "2 star", "count": 91000 },
+      { "name": "3 star", "count": 345000 },
+      { "name": "4 star", "count": 1021000 },
+      { "name": "5 star", "count": 5620000 }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "title": "MusicWave - Stream & Share",
     "companyName": "SoundFlow Entertainment",
     "id": 15,
-    "description": "MusicWave lets you stream millions of songs, create playlists and discover new artists with personalised recommendations. Share your favourite tracks and podcasts with friends. Offline download mode keeps music for when you’re offline. High-quality audio and curated playlists across genres.",
+    "description": "MusicWave lets you stream millions of songs, create playlists and discover new artists with personalised recommendations. Share your favourite tracks and podcasts with friends. Offline download mode keeps music for when you’re offline. High-quality audio and curated playlists across genres. Follow artists to get latest releases. Explore mood and activity-based playlists. Access lyrics and song information. Create collaborative playlists with friends. Listen across multiple devices seamlessly. Discover new genres and trending tracks. Set favorites and recommendations. Enjoy radio and curated channels anytime.",
     "size": 58.9,
-    "reviews": 13450,
+    "reviews": 134,
     "ratingAvg": 4.5,
     "downloads": 6.3,
     "ratings": [
-      { "name": "1 star", "count": 420 },
-      { "name": "2 star", "count": 260 },
-      { "name": "3 star", "count": 1230 },
-      { "name": "4 star", "count": 4620 },
-      { "name": "5 star", "count": 7480 }
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 47000 },
+      { "name": "3 star", "count": 123000 },
+      { "name": "4 star", "count": 462000 },
+      { "name": "5 star", "count": 748000 }
     ]
   },
   {
@@ -274,17 +274,17 @@
     "title": "DocuScan – PDF Scanner & Editor",
     "companyName": "Productivity Tools Ltd.",
     "id": 16,
-    "description": "DocuScan converts your phone into a portable scanner: scan documents, receipts or whiteboards and export as PDF or image. Edit, annotate, fill forms and sign documents right in the app. Automatically detect edges and lighten text for clear results. Secure encrypted storage built-in.",
+    "description": "DocuScan converts your phone into a portable scanner: scan documents, receipts or whiteboards and export as PDF or image. Edit, annotate, fill forms and sign documents right in the app. Automatically detect edges and lighten text for clear results. Secure encrypted storage built-in. Organize scans into folders and tags. Use OCR to extract text. Share scanned documents via email or cloud. Batch scanning supported for multiple pages. Add watermarks or notes to documents. Access offline without internet. Print directly from the app. Maintain privacy with password-protected files.",
     "size": 34.9,
-    "reviews": 9510,
+    "reviews": 405,
     "ratingAvg": 4.4,
     "downloads": 2.95,
     "ratings": [
-      { "name": "1 star", "count": 570 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 920 },
-      { "name": "4 star", "count": 3280 },
-      { "name": "5 star", "count": 2430 }
+      { "name": "1 star", "count": 27000 },
+      { "name": "2 star", "count": 61000 },
+      { "name": "3 star", "count": 92000 },
+      { "name": "4 star", "count": 328000 },
+      { "name": "5 star", "count": 543000 }
     ]
   },
   {
@@ -292,17 +292,17 @@
     "title": "LearnKids – STEM Activities",
     "companyName": "EduPlay Technologies",
     "id": 17,
-    "description": "LearnKids engages children with fun STEM activities, coding games and science experiments. Parents can monitor progress and access printable worksheets. Curriculum-based lessons designed for ages 6-12. Encourages curiosity, critical thinking and hands-on learning at home.",
+    "description": "LearnKids engages children with fun STEM activities, coding games and science experiments. Parents can monitor progress and access printable worksheets. Curriculum-based lessons designed for ages 6-12. Encourages curiosity, critical thinking and hands-on learning at home. Unlock achievements and badges. Explore interactive simulations and challenges. Track learning streaks and performance. Share projects with family and friends. Offline access for continued learning. Develop problem-solving and coding skills. Includes step-by-step guidance and tutorials. Supports creativity through experiments and projects.",
     "size": 53.3,
-    "reviews": 6850,
+    "reviews": 68,
     "ratingAvg": 4.7,
     "downloads": 1.1,
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 140 },
-      { "name": "3 star", "count": 510 },
-      { "name": "4 star", "count": 1980 },
-      { "name": "5 star", "count": 3020 }
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 44000 },
+      { "name": "3 star", "count": 71000 },
+      { "name": "4 star", "count": 198000 },
+      { "name": "5 star", "count": 302000 }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "title": "WeatherPro – Live Forecasts",
     "companyName": "SkyView Apps",
     "id": 18,
-    "description": "WeatherPro gives you accurate local forecasts, radar maps, severe-weather alerts and custom notifications. Use widgets for quick glance views and track multiple locations. Plan your week confidently with hourly and 10-day outlooks. Clean UI makes weather easy to understand.",
+    "description": "WeatherPro gives you accurate local forecasts, radar maps, severe-weather alerts and custom notifications. Use widgets for quick glance views and track multiple locations. Plan your week confidently with hourly and 10-day outlooks. Clean UI makes weather easy to understand. Access satellite and radar imagery. Receive push alerts for extreme conditions. Compare forecasts across locations. Monitor temperature, wind, and precipitation. Explore weather trends over time. Customize notifications for favorite locations. Access offline forecast data. Enjoy dark mode for night viewing.",
     "size": 26.7,
-    "reviews": 4030,
+    "reviews": 40,
     "ratingAvg": 4.3,
     "downloads": 0.45,
     "ratings": [
-      { "name": "1 star", "count": 340 },
-      { "name": "2 star", "count": 220 },
-      { "name": "3 star", "count": 640 },
-      { "name": "4 star", "count": 1870 },
-      { "name": "5 star", "count": 960 }
+      { "name": "1 star", "count": 22000 },
+      { "name": "2 star", "count": 34000 },
+      { "name": "3 star", "count": 64000 },
+      { "name": "4 star", "count": 187000 },
+      { "name": "5 star", "count": 960000 }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "title": "BookShelf – eBooks & Audiobooks",
     "companyName": "ReadMore Media",
     "id": 19,
-    "description": "BookShelf gives access to a library of thousands of eBooks and audiobooks across genres and languages. Download for offline reading or listening and customize your reading experience with fonts, themes and auto-scroll. Sync across devices so you can pick up where you left off.",
+    "description": "BookShelf gives access to a library of thousands of eBooks and audiobooks across genres and languages. Download for offline reading or listening and customize your reading experience with fonts, themes and auto-scroll. Sync across devices so you can pick up where you left off. Organize books into collections. Track reading progress and bookmarks. Highlight and annotate passages. Access recommendations based on reading history. Search for books by title, author, or genre. Listen to audiobooks at variable speed. Share reading lists with friends. Maintain reading streaks. Explore curated collections and bestsellers.",
     "size": 67.8,
-    "reviews": 12120,
+    "reviews": 12,
     "ratingAvg": 4.6,
     "downloads": 0.32,
     "ratings": [
-      { "name": "1 star", "count": 310 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 920 },
-      { "name": "4 star", "count": 4360 },
-      { "name": "5 star", "count": 6310 }
+      { "name": "1 star", "count": 18000 },
+      { "name": "2 star", "count": 31000 },
+      { "name": "3 star", "count": 92000 },
+      { "name": "4 star", "count": 436000 },
+      { "name": "5 star", "count": 631000 }
     ]
   },
   {
@@ -346,17 +346,17 @@
     "title": "MeetingMate – Video Conferencing",
     "companyName": "WorkFlow Innovate",
     "id": 20,
-    "description": "MeetingMate supports high-quality video meetings, screen sharing, virtual backgrounds and breakout rooms for productive remote collaboration. Encrypts calls end-to-end and supports scheduling, transcription and cloud recording. Integrates with calendar and team tools for seamless workflow.",
+    "description": "MeetingMate supports high-quality video meetings, screen sharing, virtual backgrounds and breakout rooms for productive remote collaboration. Encrypts calls end-to-end and supports scheduling, transcription and cloud recording. Integrates with calendar and team tools for seamless workflow. Join meetings directly from email invites. Customize virtual backgrounds and layouts. Record meetings for later review. Manage participants and permissions. Use chat for questions and polls. Access meetings across devices. Schedule recurring meetings easily. Set reminders and notifications. Collaborate with shared documents in real-time.",
     "size": 88.2,
-    "reviews": 6750,
+    "reviews": 35,
     "ratingAvg": 4.2,
     "downloads": 0.15,
     "ratings": [
-      { "name": "1 star", "count": 810 },
-      { "name": "2 star", "count": 450 },
-      { "name": "3 star", "count": 720 },
-      { "name": "4 star", "count": 3030 },
-      { "name": "5 star", "count": 1650 }
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 45000 },
+      { "name": "3 star", "count": 72000 },
+      { "name": "4 star", "count": 303000 },
+      { "name": "5 star", "count": 765000 }
     ]
   },
   {
@@ -364,17 +364,17 @@
     "title": "DriveSafe – Navigation & Traffic",
     "companyName": "NavGuide Systems",
     "id": 21,
-    "description": "DriveSafe gives turn-by-turn navigation, live traffic updates and voice guidance to help you reach destinations faster. Explore alternative routes avoiding congestion and hazards. Offline maps available for travel in low-connectivity zones. Community reports warn you of road incidents in real-time.",
+    "description": "DriveSafe gives turn-by-turn navigation, live traffic updates and voice guidance to help you reach destinations faster. Explore alternative routes avoiding congestion and hazards. Offline maps available for travel in low-connectivity zones. Community reports warn you of road incidents in real-time. Customize routes and avoid tolls. Track ETA and distance. Save favorite locations for quick access. Receive notifications for accidents or closures. Share location with friends or family. Voice-guided navigation for hands-free driving. Plan multi-stop trips efficiently. Get traffic insights and road conditions live.",
     "size": 63.5,
-    "reviews": 8030,
+    "reviews": 80,
     "ratingAvg": 4.4,
     "downloads": 0.26,
     "ratings": [
-      { "name": "1 star", "count": 540 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 940 },
-      { "name": "4 star", "count": 3650 },
-      { "name": "5 star", "count": 1590 }
+      { "name": "1 star", "count": 31000 },
+      { "name": "2 star", "count": 54000 },
+      { "name": "3 star", "count": 94000 },
+      { "name": "4 star", "count": 365000 },
+      { "name": "5 star", "count": 459000 }
     ]
   },
   {
@@ -382,17 +382,17 @@
     "title": "HabitBuilder – Goal Tracker",
     "companyName": "BetterYou Labs",
     "id": 22,
-    "description": "HabitBuilder helps you build positive routines and break bad ones by tracking daily habits, setting reminders and visualizing your progress. Earn streaks and get motivational messages. Sync with calendar and other wellness apps to stay on track seamlessly. Great tool for self-improvement.",
+    "description": "HabitBuilder helps you build positive routines and break bad ones by tracking daily habits, setting reminders and visualizing your progress. Earn streaks and get motivational messages. Sync with calendar and other wellness apps to stay on track seamlessly. Set achievable goals and milestones. Monitor trends and improvements over time. Customize habit categories and colors. Receive tips and encouragement. Join community challenges for motivation. Track sleep, exercise, or learning habits. Celebrate achievements with badges. Analyze success patterns for better results. Maintain consistency with daily notifications.",
     "size": 24.9,
-    "reviews": 5820,
+    "reviews": 58,
     "ratingAvg": 4.5,
     "downloads": 1.37,
     "ratings": [
-      { "name": "1 star", "count": 220 },
-      { "name": "2 star", "count": 130 },
-      { "name": "3 star", "count": 510 },
-      { "name": "4 star", "count": 2450 },
-      { "name": "5 star", "count": 2510 }
+      { "name": "1 star", "count": 12000 },
+      { "name": "2 star", "count": 23000 },
+      { "name": "3 star", "count": 51000 },
+      { "name": "4 star", "count": 245000 },
+      { "name": "5 star", "count": 351000 }
     ]
   },
   {
@@ -400,14 +400,14 @@
     "title": "Spotify – Music and Podcasts",
     "companyName": "Spotify AB",
     "id": 23,
-    "description": "Spotify lets you stream millions of songs, albums and podcasts from artists worldwide. Create playlists, discover new music through personalized recommendations, and enjoy ad-free listening with Spotify Premium. Download tracks for offline playback and explore curated playlists for every mood.",
+    "description": "Spotify lets you stream millions of songs, albums and podcasts from artists worldwide. Create playlists, discover new music through personalized recommendations, and enjoy ad-free listening with Spotify Premium. Download tracks for offline playback and explore curated playlists for every mood. Follow artists to get updates. Share playlists with friends. Access exclusive podcasts and shows. Create collaborative playlists. Discover new releases and trending hits. Enjoy high-quality audio streaming. Control music across devices seamlessly. Customize listening experience with equalizer and settings.",
     "size": 82.5,
-    "reviews": 32400000,
+    "reviews": 324,
     "ratingAvg": 4.4,
     "downloads": 10,
     "ratings": [
-      { "name": "1 star", "count": 980000 },
-      { "name": "2 star", "count": 540000 },
+      { "name": "1 star", "count": 540000 },
+      { "name": "2 star", "count": 980000 },
       { "name": "3 star", "count": 1600000 },
       { "name": "4 star", "count": 5800000 },
       { "name": "5 star", "count": 23500000 }
@@ -419,14 +419,14 @@
     "title": "Facebook – Social Media",
     "companyName": "Meta Platforms, Inc.",
     "id": 24,
-    "description": "Facebook helps you connect with friends and family, share photos, videos and updates, and follow pages and communities of interest. Stay informed with news, events, and trending topics. Join groups, chat with Messenger, and discover content tailored to your interests.",
+    "description": "Facebook helps you connect with friends and family, share photos, videos and updates, and follow pages and communities of interest. Stay informed with news, events, and trending topics. Join groups, chat with Messenger, and discover content tailored to your interests. Share stories and live videos. Explore events and RSVP easily. Customize your feed preferences. Discover friends-of-friends and suggested connections. Participate in community discussions. Access Marketplace for buying and selling. Protect privacy with security settings. React and comment on posts. Connect across devices seamlessly.",
     "size": 115.0,
-    "reviews": 45000000,
+    "reviews": 950,
     "ratingAvg": 4.1,
     "downloads": 500,
     "ratings": [
-      { "name": "1 star", "count": 2100000 },
-      { "name": "2 star", "count": 1250000 },
+      { "name": "1 star", "count": 1250000 },
+      { "name": "2 star", "count": 2100000 },
       { "name": "3 star", "count": 4500000 },
       { "name": "4 star", "count": 14500000 },
       { "name": "5 star", "count": 24350000 }
@@ -438,15 +438,15 @@
     "title": "Asphalt 9: Legends",
     "companyName": "Gameloft SE",
     "id": 25,
-    "description": "Asphalt 9: Legends is an exhilarating racing game featuring real hypercars, stunning graphics, and arcade-style gameplay. Compete in thrilling events, climb global leaderboards, and join clubs for team competitions. Unlock cars, upgrade performance, and master unique tracks across diverse locations worldwide.",
+    "description": "Asphalt 9: Legends is an exhilarating racing game featuring real hypercars, stunning graphics, and arcade-style gameplay. Compete in thrilling events, climb global leaderboards, and join clubs for team competitions. Unlock cars, upgrade performance, and master unique tracks across diverse locations worldwide. Participate in multiplayer races. Customize cars with paints and decals. Use nitro boosts strategically. Complete daily and seasonal challenges. Explore single-player career mode. Access car stats and upgrades. Join online events and tournaments. Enjoy realistic physics and immersive sound.",
     "size": 295.0,
-    "reviews": 2250000,
+    "reviews": 500,
     "ratingAvg": 4.5,
     "downloads": 120,
     "ratings": [
-      { "name": "1 star", "count": 45000 },
-      { "name": "2 star", "count": 22000 },
-      { "name": "3 star", "count": 90000 },
+      { "name": "1 star", "count": 54000 },
+      { "name": "2 star", "count": 85000 },
+      { "name": "3 star", "count": 150000 },
       { "name": "4 star", "count": 650000 },
       { "name": "5 star", "count": 1500000 }
     ]
@@ -456,13 +456,13 @@
     "title": "YouTube – Watch, Listen, Stream",
     "companyName": "Google LLC",
     "id": 26,
-    "description": "YouTube lets you watch, upload, and share videos from creators worldwide. Explore trending content, subscribe to channels, and enjoy personalized recommendations. Create playlists, comment, and interact with communities. Access music, tutorials, news, and entertainment on the go.",
+    "description": "YouTube lets you watch, upload, and share videos from creators worldwide. Explore trending content, subscribe to channels, and enjoy personalized recommendations. Create playlists, comment, and interact with communities. Access music, tutorials, news, and entertainment on the go. Stream live events and premieres. Download videos for offline viewing. Manage your subscriptions and notifications. Use watch history for recommendations. Discover new creators with ease. Engage with video chapters and highlights. Customize video quality and captions. Connect across multiple devices seamlessly.",
     "size": 95.0,
-    "reviews": 41000000,
+    "reviews": 410,
     "ratingAvg": 4.3,
     "downloads": 100,
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
+      { "name": "1 star", "count": 120000 },
       { "name": "2 star", "count": 650000 },
       { "name": "3 star", "count": 2000000 },
       { "name": "4 star", "count": 13500000 },
@@ -474,15 +474,15 @@
     "title": "Discord – Chat, Talk & Hangout",
     "companyName": "Discord Inc.",
     "id": 27,
-    "description": "Discord lets you communicate via voice, video, and text with friends, communities, and gaming groups. Join servers, chat in channels, share media, and stream gameplay in real-time. Customize notifications, roles, and permissions to stay connected your way. Perfect for gamers and social communities alike.",
+    "description": "Discord lets you communicate via voice, video, and text with friends, communities, and gaming groups. Join servers, chat in channels, share media, and stream gameplay in real-time. Customize notifications, roles, and permissions to stay connected your way. Perfect for gamers and social communities alike. Create private or public servers. Use bots for moderation and fun. Share files and images easily. Participate in voice channels or live streaming. Organize channels by topics and categories. Access mobile and desktop apps seamlessly. React with emojis and stickers. Maintain community engagement with events.",
     "size": 85.0,
-    "reviews": 12800000,
+    "reviews": 128,
     "ratingAvg": 4.7,
     "downloads": 50,
     "ratings": [
-      { "name": "1 star", "count": 250000 },
-      { "name": "2 star", "count": 130000 },
-      { "name": "3 star", "count": 560000 },
+      { "name": "1 star", "count": 330000 },
+      { "name": "2 star", "count": 750000 },
+      { "name": "3 star", "count": 1060000 },
       { "name": "4 star", "count": 3450000 },
       { "name": "5 star", "count": 8700000 }
     ]
@@ -492,15 +492,15 @@
     "title": "Need for Speed: No Limits",
     "companyName": "Electronic Arts",
     "id": 28,
-    "description": "Need for Speed: No Limits delivers intense street racing with fully customizable cars, challenging events, and stunning graphics. Compete in multiplayer races, upgrade vehicles, and master unique tracks in urban environments. Participate in daily and seasonal events to climb leaderboards and unlock exclusive rewards.",
+    "description": "Need for Speed: No Limits delivers intense street racing with fully customizable cars, challenging events, and stunning graphics. Compete in multiplayer races, upgrade vehicles, and master unique tracks in urban environments. Participate in daily and seasonal events to climb leaderboards and unlock exclusive rewards. Customize car performance and appearance. Explore city streets and hidden shortcuts. Complete missions and challenges. Use nitro boosts and drifting skills strategically. Join clubs and compete with friends. Access real-time events and tournaments. Track stats and achievements. Unlock new vehicles and upgrades regularly. Enjoy realistic physics and immersive audio.",
     "size": 512.0,
-    "reviews": 5600000,
+    "reviews": 560,
     "ratingAvg": 4.5,
     "downloads": 150,
     "ratings": [
-      { "name": "1 star", "count": 85000 },
-      { "name": "2 star", "count": 42000 },
-      { "name": "3 star", "count": 180000 },
+      { "name": "1 star", "count": 182000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 480000 },
       { "name": "4 star", "count": 1250000 },
       { "name": "5 star", "count": 3900000 }
     ]

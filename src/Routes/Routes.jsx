@@ -5,7 +5,7 @@ import MyApps from "../Pages/MyApps";
 import MyInstallation from "../Pages/MyInstallation";
 import MainLayout from "../Layouts/MainLayout";
 import ErrorPage from "../Pages/ErrorPage";
-import AppsNotFoundPage from "../Pages/AppsNotFoundPage";
+import AppDetails from "../Pages/AppDetails";
 
 const router = createBrowserRouter([
   {
@@ -33,11 +33,10 @@ const router = createBrowserRouter([
     element: <MyInstallation />,
   },
 
-  // {
-  //   path: "*",
-  //   element: <ErrorPage />,
-  // },
-
+  {
+    path: "/apps/:id",
+    element: <AppDetails />,
+  },
 
 ]);
 

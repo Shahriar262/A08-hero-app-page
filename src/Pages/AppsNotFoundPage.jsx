@@ -1,8 +1,8 @@
 import React from "react";
 import noAppsImg from "../assets/App-Error.png";
-import { CiSearch } from "react-icons/ci";
 
-const AppsNotFoundPage = ({ onGoBack, search, setSearch, searchedApps }) => {
+
+const AppsNotFoundPage = ({ onGoBack }) => {
   return (
     <div className="mt-10">
       <div className="flex justify-center items-center mb-4">
