@@ -36,10 +36,10 @@ const MyInstallation = () => {
   return (
     <div>
       <ToastContainer position="top-center" autoClose={2000} />
-      <h1 className="text-4xl font-bold text-[#001931] text-center mt-20 mb-4">
+      <h1 className="md:text-4xl text-[28px] font-bold text-[#001931] text-center mt-20 mb-4">
         Your Installed Apps
       </h1>
-      <p className="text-[#627382] text-[14px] md:text-base lg:text-base text-center">
+      <p className="text-[#627382] text-[13px] md:text-base lg:text-base text-center">
         Explore All Trending Apps on the Market developed by us
       </p>
 
@@ -49,7 +49,7 @@ const MyInstallation = () => {
         <>
           <div className="space-y-7 max-w-7xl mx-auto px-4 md:px-6">
             <div className="flex justify-between mt-14 mb-[10px] items-center">
-              <h1 className="text-2xl font-semibold">
+              <h1 className="text-[19px] md:text-2xl font-semibold">
                 <span>{sortedItem.length}</span> Apps Found
               </h1>
 
@@ -78,7 +78,7 @@ const MyInstallation = () => {
                         />
                       </div>
                       <div>
-                        <h2 className="text-[#001931] font-medium mb-2">
+                        <h2 className="text-[#001931] text-[14px] md:text-base font-medium mb-2">
                           {p.title}
                         </h2>
                         <div className="flex items-center gap-[10px]">
