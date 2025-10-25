@@ -7,9 +7,11 @@ import HeroSection from "../Components/HeroSection";
 import Banner from "../Components/Banner";
 
 const Home = () => {
-  const { apps, loading, error } = useApps();
+  const { apps, loading } = useApps();
 
   const trendingApps = apps.slice(0, 8);
+
+  
 
   return (
     <div className="mt-10">

@@ -11,6 +11,8 @@ const MyInstallation = () => {
   const [appList, setAppList] = useState(() => loadAppList());
   const [sortOrder, setSortOrder] = useState("none");
 
+  
+
   const sortedItem = (() => {
     if (sortOrder === "downloads-asc") {
       return [...appList].sort((a, b) => a.downloads - b.downloads);

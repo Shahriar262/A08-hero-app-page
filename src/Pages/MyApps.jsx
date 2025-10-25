@@ -22,7 +22,7 @@ const MyApps = () => {
 
     const timer = setTimeout(() => {
       setSearchLoading(false);
-    }, 600);
+    }, 700);
     return () => clearTimeout(timer);
   }, [debouncedSearch]);
 
@@ -32,6 +32,8 @@ const MyApps = () => {
     : apps;
 
   const appsNotFound = term !== "" && searchedApps.length === 0;
+
+  
 
   return (
     <div>

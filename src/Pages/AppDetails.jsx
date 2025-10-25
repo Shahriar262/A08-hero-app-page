@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import useApps from "../Hooks/useApps";
 import AppsNotFoundPage from "./AppsNotFoundPage";
@@ -19,14 +19,22 @@ import {
   YAxis,
 } from "recharts";
 import LoadingSpinner from "../Components/LoadingSpinner";
-import { updatedApps } from "../utils/localStorage";
+import { loadAppList, updatedApps } from "../utils/localStorage";
+import { toast, ToastContainer } from "react-toastify";
 
 const AppDetails = () => {
   const { id } = useParams();
 
   const { apps, loading } = useApps();
 
+  const [isInstalled, setIsInstalled] = useState(false);
+
   const app = apps.find((a) => a.id === Number(id));
+
+  useEffect(() => {
+    const installed = loadAppList().some((a) => a.id === Number(id));
+    setIsInstalled(installed);
+  }, [id]);
 
   if (loading) {
     return (
@@ -62,10 +70,16 @@ const AppDetails = () => {
 
   const verticalRatings = [...ratings].reverse();
 
+  const handleInstall = () => {
+    updatedApps(app);
+    toast.success(`${app.title} installed successfully`);
+    setIsInstalled(true);
+  };
 
   return (
     <div>
       <Navbar />
+      <ToastContainer position="top-center" autoClose={2000} />
       <div className="max-w-7xl mx-auto px-4 md:px-6 flex flex-col md:flex-row gap-10 mt-20">
         <div className="px-12 md:px-0">
           <img src={image} className="w-[280px] h-[280px]" alt="App image" />
@@ -114,10 +128,13 @@ const AppDetails = () => {
           </div>
           <div className="mt-[26px] px-23 md:px-0">
             <button
-              onClick={()=> updatedApps(app)}
-              className="btn bg-[#00d390] text-white py-3 px-[18px] font-semibold"
+              onClick={handleInstall}
+              disabled={isInstalled}
+              className={`py-2 px-4 rounded text-white ${
+                isInstalled ? "bg-[#00d390]" : "bg-[#00d390]"
+              }`}
             >
-              Install Now (<span>{size}</span> MB)
+              {isInstalled ? "Installed" : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>
