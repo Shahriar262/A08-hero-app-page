@@ -7,11 +7,13 @@ const useApps = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    setLoading(true)
+    setLoading(true);
     axios("../appsData.json")
-      .then((data) => setApps(data.data))
+      .then((data) => {
+        setTimeout(() => setApps(data.data), 800)
+      })
       .catch((err) => setError(err))
-      .finally(()=> setLoading(false))
+      .finally(() => setTimeout(() => setLoading(false), 800))
   }, []);
 
   return { apps, loading, error };

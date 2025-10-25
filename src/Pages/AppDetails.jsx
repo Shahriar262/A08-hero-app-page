@@ -18,13 +18,25 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
+import LoadingSpinner from "../Components/LoadingSpinner";
+import { updatedApps } from "../utils/localStorage";
 
 const AppDetails = () => {
   const { id } = useParams();
 
-  const { apps, loading, error } = useApps();
+  const { apps, loading } = useApps();
 
   const app = apps.find((a) => a.id === Number(id));
+
+  if (loading) {
+    return (
+      <div>
+        <Navbar />
+        <LoadingSpinner />
+        <Footer />
+      </div>
+    );
+  }
 
   if (!app) {
     return (
@@ -36,7 +48,6 @@ const AppDetails = () => {
     );
   }
 
-  if (loading) return <p>Loading...</p>;
   const {
     image,
     title,
@@ -50,6 +61,7 @@ const AppDetails = () => {
   } = app || {};
 
   const verticalRatings = [...ratings].reverse();
+
 
   return (
     <div>
@@ -101,7 +113,10 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-[26px] px-23 md:px-0">
-            <button className="btn bg-[#00d390] text-white py-3 px-[18px] font-semibold">
+            <button
+              onClick={()=> updatedApps(app)}
+              className="btn bg-[#00d390] text-white py-3 px-[18px] font-semibold"
+            >
               Install Now (<span>{size}</span> MB)
             </button>
           </div>
