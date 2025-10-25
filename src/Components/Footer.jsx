@@ -16,7 +16,7 @@ const Footer = () => {
             <h1 className="text-base font-bold text-white ">HERO.IO</h1>
           </div>
           <p className="text-sm text-gray-400">
-            Experience the ultimate mobile productivity <br /> and entertainment app.
+            HERO.IO is a mobile apps marketplace to browse, <br /> install, and manage apps easily.
           </p>
          </div>
 
