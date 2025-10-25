@@ -11,3 +11,4 @@ HERO.IO is a modern mobile apps marketplace web page, similar to the Google Play
 - App Browsing & Discovery: Quickly explore a variety of mobile apps.
 - Install & Uninstall Apps: Manage installations with a single tap.
 - Responsive & Interactive: Mobile-optimized design with smooth UI and real-time updates.
+- App Details: View descriptions, ratings, downloads, and reviews.
